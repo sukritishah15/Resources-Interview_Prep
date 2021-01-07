@@ -14,30 +14,39 @@
   - Text Resources / Books
 - Linked Lists
   - Video Lectures
+    - [Linked List related videos in Data Structures Playlist by mycodeschool](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P) 
+    - [Linked List Playlist by Vivekanand Khyade Sir](https://www.youtube.com/playlist?list=PLeIMaH7i8JDio7glJoO1rQIAo4g1msRRG)
+    - [Linked List Playlist by Naresh i Technologies](https://www.youtube.com/playlist?list=PLBSRG4pA_5p5Z90SpPEN0JMTA-YdDZS43)
+    - [Linked List - Interview Questions by Faad Coder](https://www.youtube.com/watch?v=ZrA0QR_i2uU) 
   - Text Resources / Books
 - Stacks
   - Video Lectures
+    - [Stack related videos in Data Structures Playlist by mycodeschool](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
+    - [Stack related videos in Data Structures Playlist by Naresh i Technologies](https://www.youtube.com/playlist?list=PLVlQHNRLflP_OxF1QJoGBwH_TnZszHR_j)
   - Text Resources / Books
 - Queues
   - Video Lectures
+    - [Queue related videos in Data Structures Playlist by mycodeschool](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
+    - [Tree related videos in Data Structures Playlist by Naresh i Technologies](https://www.youtube.com/playlist?list=PLVlQHNRLflP_OxF1QJoGBwH_TnZszHR_j)
   - Text Resources / Books
-- Binary Trees
+- Trees
   - Video Lectures
-  - Text Resources / Books
-- Binary Search Trees
-  - Video Lectures
+    - [Tree related videos in Data Structures Playlist by mycodeschool](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
+    - [Tree related videos in Data Structures Playlist by Naresh i Technologies](https://www.youtube.com/playlist?list=PLVlQHNRLflP_OxF1QJoGBwH_TnZszHR_j)
   - Text Resources / Books
 - Heaps
   - Video Lectures
   - Text Resources / Books
 - Graphs
   - Video Lectures
+    - [Graph related videos in Data Structures Playlist by mycodeschool](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
   - Text Resources / Books
 - Tries
   - Video Lectures
   - Text Resources / Books
 - Backtracking
   - Video Lectures
+    - [Recursion and Backtracking Playlist by Pepcoding](https://www.youtube.com/playlist?list=PL-Jc9J83PIiHO9SQ6lxGuDsZNt2mkHEn0)
   - Text Resources / Books
 - Dynamic Programming
   - Video Lectures
