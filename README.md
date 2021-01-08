@@ -4,6 +4,7 @@
 
   - Time and Space Complexity Analysis
     - Video Lectures
+      - [Time Complexity Analysis Playlist by mycodeschool](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI9HK8YPVBjElbLbI3ufctn)
       - [Time & Space Complexity Analysis Playlist by TECH DOSE](https://www.youtube.com/playlist?list=PLEJXowNB4kPzM2TEVdhu8Aq0FUvaW95HY)
     - Text Resources / Books
   - Arrays
@@ -136,3 +137,8 @@
 ## Puzzles
 
   - [Interview Puzzles Playlist by TECH DOSE](https://www.youtube.com/playlist?list=PLEJXowNB4kPyvx5VsNcjz3vccR8iIDz-e)
+  
+  
+## Pointers in C/C++
+
+   - [Pointers in C/C++ Playlist by mycodeschool](https://www.youtube.com/playlist?list=PL2_aWCzGMAwLZp6LMUKI3cc7pgGsasm2_)
