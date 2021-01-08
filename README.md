@@ -54,6 +54,8 @@
   - Text Resources / Books
 - Tries
   - Video Lectures
+    - [Trie Playlist-1 by TECH DOSE](https://www.youtube.com/playlist?list=PLEJXowNB4kPyi859E6qGUs7jlpQehJndl)
+    - [Trie Playlist-2 by TECH DOSE](https://www.youtube.com/playlist?list=PLEJXowNB4kPyO3prfyAh8ms7VltG5o47M)
   - Text Resources / Books
 - Backtracking
   - Video Lectures
