@@ -87,5 +87,6 @@
     - [Geometric Algorithms Playlist by TECH DOSE](https://www.youtube.com/playlist?list=PLEJXowNB4kPx7Bx9J5in8LDK7hZKVrvpD)
 - Interview Questions
   - [Simple Questions Playlist by Vivekanand Khyade Sir](https://www.youtube.com/playlist?list=PLeIMaH7i8JDjw0uHGG1AwB8M2DwDS4-Nk)
+  - [Programming Interview Questions Playlist by TECH DOSE](https://www.youtube.com/playlist?list=PLEJXowNB4kPxQIN2dCUAnQ_92HIziG4x6)
 
 
