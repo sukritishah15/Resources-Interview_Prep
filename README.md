@@ -5,6 +5,7 @@
 - Arrays
   - Video Lectures
     - [Arrays and Pointers in C by Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjoG6aJ4FvFU1tlXbjLBiOP)
+    - [Array Playlist by Vivekanand Khyade Sir](https://www.youtube.com/playlist?list=PLeIMaH7i8JDjd21ZF6jlRKtChLttls7BG)
   - Text Resources / Books
 - Recursion
   - Video Lectures
@@ -31,6 +32,8 @@
   - Text Resources / Books
 - Trees
   - Video Lectures
+    - [Binary Tree Playlist by Vivekanand Khyade Sir](https://www.youtube.com/playlist?list=PLeIMaH7i8JDj7DnmO7lll97P1yZjMCpgY)
+    - [AVL Tree Playlist by Vivekanand Khyade Sir](https://www.youtube.com/playlist?list=PLeIMaH7i8JDhqZpO42Vnx7wkYbyrf4Dm_)
     - [Tree related videos in Data Structures Playlist by mycodeschool](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
     - [Tree related videos in Data Structures Playlist by Naresh i Technologies](https://www.youtube.com/playlist?list=PLVlQHNRLflP_OxF1QJoGBwH_TnZszHR_j)
   - Text Resources / Books
@@ -40,6 +43,7 @@
 - Graphs
   - Video Lectures
     - [Graph related videos in Data Structures Playlist by mycodeschool](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
+    - [Graph Theory Playlist by Vivekanand Khyade Sir](https://www.youtube.com/playlist?list=PLeIMaH7i8JDiRA4fK9QmjvDSZKBJDyxpc)
   - Text Resources / Books
 - Tries
   - Video Lectures
@@ -50,6 +54,7 @@
   - Text Resources / Books
 - Dynamic Programming
   - Video Lectures
+    - [Dynamic Programming Playlist by Vivekanand Khyade Sir](https://www.youtube.com/playlist?list=PLeIMaH7i8JDjMEB-b2I8NGcKMFZc85djW)
   - Text Resources / Books
 - Hashing
   - Video Lectures
@@ -57,5 +62,12 @@
 - Strings
   - Video Lectures
   - Text Resources / Books
+- Additional Topics
+  - Matrix
+    - [Matrix Playlist by Vivekanand Khyade Sir](https://www.youtube.com/playlist?list=PLeIMaH7i8JDim_JbrI07PxNdWqrmrq5RK)
+  - Segment Tree
+    - [Segment Tree Playlist by Vivekanand Khyade Sir](https://www.youtube.com/playlist?list=PLeIMaH7i8JDj2otElX_jV45ctSPju_Kyl)
+- Interview Questions
+  - [Simple Questions Playlist by Vivekanand Khyade Sir](https://www.youtube.com/playlist?list=PLeIMaH7i8JDjw0uHGG1AwB8M2DwDS4-Nk)
 
 
