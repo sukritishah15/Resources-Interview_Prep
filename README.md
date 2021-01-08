@@ -34,6 +34,9 @@
   - Video Lectures
     - [Binary Tree Playlist by Vivekanand Khyade Sir](https://www.youtube.com/playlist?list=PLeIMaH7i8JDj7DnmO7lll97P1yZjMCpgY)
     - [AVL Tree Playlist by Vivekanand Khyade Sir](https://www.youtube.com/playlist?list=PLeIMaH7i8JDhqZpO42Vnx7wkYbyrf4Dm_)
+    - [Binary Tree Playlist by Kashish Mehendiratta Sir](https://www.youtube.com/playlist?list=PLNxqWc8Uj2LRbsOlBiPJZAyZpaUwdDepd)
+    - [Binary Search Tree Playlist by Kashish Mehendiratta Sir](https://www.youtube.com/playlist?list=PLNxqWc8Uj2LQpbGv6I_HWf0kTj6kMVVwm)
+    - [Advanced Tree Concepts Playlist by Kashish Mehendiratta Sir](https://www.youtube.com/playlist?list=PLNxqWc8Uj2LTupAJUeWvWzRTVT9NX36lY)
     - [Tree related videos in Data Structures Playlist by mycodeschool](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
     - [Tree related videos in Data Structures Playlist by Naresh i Technologies](https://www.youtube.com/playlist?list=PLVlQHNRLflP_OxF1QJoGBwH_TnZszHR_j)
   - Text Resources / Books
@@ -44,6 +47,7 @@
   - Video Lectures
     - [Graph related videos in Data Structures Playlist by mycodeschool](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
     - [Graph Theory Playlist by Vivekanand Khyade Sir](https://www.youtube.com/playlist?list=PLeIMaH7i8JDiRA4fK9QmjvDSZKBJDyxpc)
+    - [Graph Data Structure Playlist by Kashish Mehendiratta Sir](https://www.youtube.com/playlist?list=PLNxqWc8Uj2LTb6VYJG3Kebwift2oaBFvE)
   - Text Resources / Books
 - Tries
   - Video Lectures
@@ -51,6 +55,7 @@
 - Backtracking
   - Video Lectures
     - [Recursion and Backtracking Playlist by Pepcoding](https://www.youtube.com/playlist?list=PL-Jc9J83PIiHO9SQ6lxGuDsZNt2mkHEn0)
+    - [Backtracking Playlist by Kashish Mehendiratta Sir](https://www.youtube.com/playlist?list=PLNxqWc8Uj2LTaaxs-8vzK0Ft47rMggFnN)
   - Text Resources / Books
 - Dynamic Programming
   - Video Lectures
@@ -67,6 +72,8 @@
     - [Matrix Playlist by Vivekanand Khyade Sir](https://www.youtube.com/playlist?list=PLeIMaH7i8JDim_JbrI07PxNdWqrmrq5RK)
   - Segment Tree
     - [Segment Tree Playlist by Vivekanand Khyade Sir](https://www.youtube.com/playlist?list=PLeIMaH7i8JDj2otElX_jV45ctSPju_Kyl)
+  - Disjoint Set Union
+    - [Disjoint Set Union Playlist by Kashish Mehendiratta Sir](https://www.youtube.com/playlist?list=PLNxqWc8Uj2LRONaT3wI7ikm7tedXKu7W2)
 - Interview Questions
   - [Simple Questions Playlist by Vivekanand Khyade Sir](https://www.youtube.com/playlist?list=PLeIMaH7i8JDjw0uHGG1AwB8M2DwDS4-Nk)
 
