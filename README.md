@@ -17,6 +17,8 @@
       - [Searching Algorithms Playlist by TECH DOSE](https://www.youtube.com/playlist?list=PLEJXowNB4kPwTb4BivkY0dENHmXdOEM3V)
       - [Sorting Algorithms Playlist by TECH DOSE](https://www.youtube.com/playlist?list=PLEJXowNB4kPy7Um6ju_jus9kdlTg5KEf_)
       - [Binary Search Playlist by Aditya Verma Sir](https://www.youtube.com/playlist?list=PL_z_8CaSLPWeYfhtuKHj-9MpYb6XQJ_f2)
+      - [Binary Search Playlist by mycodeschool](https://www.youtube.com/playlist?list=PL2_aWCzGMAwL3ldWlrii6YeLszojgH77j)
+      - [Sorting Algorithms Playlist by mycodeschool](https://www.youtube.com/playlist?list=PL2_aWCzGMAwKedT2KfDMB9YA5DgASZb3U)
     - Text Resources / Books
   - Recursion
     - Video Lectures
@@ -103,6 +105,7 @@
     - Text Resources / Books
   - Additional Topics / Miscellaneous
     - Mathematical Concepts / Algorithms
+      - [Mathematics for Programmers by mycodeschool](https://www.youtube.com/playlist?list=PL2_aWCzGMAwLL-mEB4ef20f3iqWMGWa25)
       - [Mathematical Playlist by TECH DOSE](https://www.youtube.com/playlist?list=PLEJXowNB4kPzC3OYy2LRovf_xb8JjAMEF)
     - Matrix
       - [Matrix Playlist by Vivekanand Khyade Sir](https://www.youtube.com/playlist?list=PLeIMaH7i8JDim_JbrI07PxNdWqrmrq5RK)
@@ -120,6 +123,7 @@
   - Interview Questions
     - [Simple Questions Playlist by Vivekanand Khyade Sir](https://www.youtube.com/playlist?list=PLeIMaH7i8JDjw0uHGG1AwB8M2DwDS4-Nk)
     - [Miscellaneous Topics Playlist by Aditya Verma Sir](https://www.youtube.com/playlist?list=PL_z_8CaSLPWdJfdZHiNYYM46tYQUjbBJx)
+    - [Programming Interview Questions Playlist by mycodeschool](https://www.youtube.com/playlist?list=PL2_aWCzGMAwLPEZrZIcNEq9ukGWPfLT4A)
     - [Programming Interview Questions Playlist by TECH DOSE](https://www.youtube.com/playlist?list=PLEJXowNB4kPxQIN2dCUAnQ_92HIziG4x6)
     - [Programming & Data Structures Playlist by TECH DOSE](https://www.youtube.com/playlist?list=PLEJXowNB4kPzDxOSQJFEnfZW_fduTdFlD)
 
