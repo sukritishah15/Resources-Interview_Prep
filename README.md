@@ -2,10 +2,19 @@
 
 ## Data Structures & Algorithms
 
+- Time and Space Complexity Analysis
+  - Video Lectures
+    - [Time & Space Complexity Analysis Playlist by TECH DOSE](https://www.youtube.com/playlist?list=PLEJXowNB4kPzM2TEVdhu8Aq0FUvaW95HY)
+  - Text Resources / Books
 - Arrays
   - Video Lectures
     - [Arrays and Pointers in C by Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjoG6aJ4FvFU1tlXbjLBiOP)
     - [Array Playlist by Vivekanand Khyade Sir](https://www.youtube.com/playlist?list=PLeIMaH7i8JDjd21ZF6jlRKtChLttls7BG)
+  - Text Resources / Books
+- Searching and Sorting
+  - Video Lectures
+    - [Searching Algorithms Playlist by TECH DOSE](https://www.youtube.com/playlist?list=PLEJXowNB4kPwTb4BivkY0dENHmXdOEM3V)
+    - [Sorting Algorithms Playlist by TECH DOSE](https://www.youtube.com/playlist?list=PLEJXowNB4kPy7Um6ju_jus9kdlTg5KEf_)
   - Text Resources / Books
 - Recursion
   - Video Lectures
@@ -46,6 +55,8 @@
   - Text Resources / Books
 - Heaps
   - Video Lectures
+    - [Heap Playlist-1 by TECH DOSE](https://www.youtube.com/playlist?list=PLEJXowNB4kPyP2PdMhOUlTY6GrRIITx28)
+    - [Heap Playlist-2 by TECH DOSE](https://www.youtube.com/playlist?list=PLEJXowNB4kPwV1-FWiWthCcwtT0SWknz0)
   - Text Resources / Books
 - Graphs
   - Video Lectures
@@ -69,8 +80,13 @@
     - [Dynamic Programming Playlist by Vivekanand Khyade Sir](https://www.youtube.com/playlist?list=PLeIMaH7i8JDjMEB-b2I8NGcKMFZc85djW)
     - [Dynamic Programming Playlist by TECH DOSE](https://www.youtube.com/playlist?list=PLEJXowNB4kPxBwaXtRO1qFLpCzF75DYrS)
   - Text Resources / Books
+- Greedy Algorithms
+  - Video Lectures
+    - [Greedy Algorithms Playlist by TECH DOSE](https://www.youtube.com/playlist?list=PLEJXowNB4kPzqtoSXDHzejPl1u6Kvvykf)
+  - Text Resources / Books
 - Hashing
   - Video Lectures
+    - [Hash Playlist by TECH DOSE](https://www.youtube.com/playlist?list=PLEJXowNB4kPzM42NGnS_9ok5c3iVIx551)
   - Text Resources / Books
 - Strings
   - Video Lectures
@@ -96,6 +112,7 @@
 - Interview Questions
   - [Simple Questions Playlist by Vivekanand Khyade Sir](https://www.youtube.com/playlist?list=PLeIMaH7i8JDjw0uHGG1AwB8M2DwDS4-Nk)
   - [Programming Interview Questions Playlist by TECH DOSE](https://www.youtube.com/playlist?list=PLEJXowNB4kPxQIN2dCUAnQ_92HIziG4x6)
+  - [Programming & Data Structures Playlist by TECH DOSE](https://www.youtube.com/playlist?list=PLEJXowNB4kPzDxOSQJFEnfZW_fduTdFlD)
 
 
 ## System Design 
@@ -104,3 +121,7 @@
 
 ## Operating Systems
 - [Operating Systems Playlist by TECH DOSE](https://www.youtube.com/playlist?list=PLEJXowNB4kPyhROV-05O2l5a2LX77u9yf)
+
+
+## Puzzles
+-[Interview Puzzles Playlist by TECH DOSE](https://www.youtube.com/playlist?list=PLEJXowNB4kPyvx5VsNcjz3vccR8iIDz-e)
