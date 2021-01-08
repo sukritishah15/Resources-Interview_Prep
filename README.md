@@ -22,13 +22,15 @@
   - Text Resources / Books
 - Stacks
   - Video Lectures
+    - [Stack & Queue Playlist by TECH DOSE](https://www.youtube.com/playlist?list=PLEJXowNB4kPzEvxN8ed6T13Meet7HP3h0)
     - [Stack related videos in Data Structures Playlist by mycodeschool](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
     - [Stack related videos in Data Structures Playlist by Naresh i Technologies](https://www.youtube.com/playlist?list=PLVlQHNRLflP_OxF1QJoGBwH_TnZszHR_j)
   - Text Resources / Books
 - Queues
   - Video Lectures
+    - [Stack & Queue Playlist by TECH DOSE](https://www.youtube.com/playlist?list=PLEJXowNB4kPzEvxN8ed6T13Meet7HP3h0)
     - [Queue related videos in Data Structures Playlist by mycodeschool](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
-    - [Tree related videos in Data Structures Playlist by Naresh i Technologies](https://www.youtube.com/playlist?list=PLVlQHNRLflP_OxF1QJoGBwH_TnZszHR_j)
+    - [Queue related videos in Data Structures Playlist by Naresh i Technologies](https://www.youtube.com/playlist?list=PLVlQHNRLflP_OxF1QJoGBwH_TnZszHR_j)
   - Text Resources / Books
 - Trees
   - Video Lectures
@@ -37,6 +39,7 @@
     - [Binary Tree Playlist by Kashish Mehendiratta Sir](https://www.youtube.com/playlist?list=PLNxqWc8Uj2LRbsOlBiPJZAyZpaUwdDepd)
     - [Binary Search Tree Playlist by Kashish Mehendiratta Sir](https://www.youtube.com/playlist?list=PLNxqWc8Uj2LQpbGv6I_HWf0kTj6kMVVwm)
     - [Advanced Tree Concepts Playlist by Kashish Mehendiratta Sir](https://www.youtube.com/playlist?list=PLNxqWc8Uj2LTupAJUeWvWzRTVT9NX36lY)
+    - [Tree Playlist by TECH DOSE](https://www.youtube.com/playlist?list=PLEJXowNB4kPzqcnf9CnjEcgP7r5LaSijB)
     - [Tree related videos in Data Structures Playlist by mycodeschool](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
     - [Tree related videos in Data Structures Playlist by Naresh i Technologies](https://www.youtube.com/playlist?list=PLVlQHNRLflP_OxF1QJoGBwH_TnZszHR_j)
   - Text Resources / Books
@@ -60,6 +63,7 @@
 - Dynamic Programming
   - Video Lectures
     - [Dynamic Programming Playlist by Vivekanand Khyade Sir](https://www.youtube.com/playlist?list=PLeIMaH7i8JDjMEB-b2I8NGcKMFZc85djW)
+    - [Dynamic Programming Playlist by TECH DOSE](https://www.youtube.com/playlist?list=PLEJXowNB4kPxBwaXtRO1qFLpCzF75DYrS)
   - Text Resources / Books
 - Hashing
   - Video Lectures
@@ -68,12 +72,17 @@
   - Video Lectures
   - Text Resources / Books
 - Additional Topics
+  - Mathematical Concepts / Algorithms
+    - [Mathematical Playlist by TECH DOSE](https://www.youtube.com/playlist?list=PLEJXowNB4kPzC3OYy2LRovf_xb8JjAMEF)
   - Matrix
     - [Matrix Playlist by Vivekanand Khyade Sir](https://www.youtube.com/playlist?list=PLeIMaH7i8JDim_JbrI07PxNdWqrmrq5RK)
   - Segment Tree
     - [Segment Tree Playlist by Vivekanand Khyade Sir](https://www.youtube.com/playlist?list=PLeIMaH7i8JDj2otElX_jV45ctSPju_Kyl)
+    - [Segment Tree Playlist by TECH DOSE](https://www.youtube.com/playlist?list=PLEJXowNB4kPxiWkLPP7b4D9761SEhyEzm)
   - Disjoint Set Union
     - [Disjoint Set Union Playlist by Kashish Mehendiratta Sir](https://www.youtube.com/playlist?list=PLNxqWc8Uj2LRONaT3wI7ikm7tedXKu7W2)
+  - Geometric Algorithms 
+    - [Geometric Algorithms Playlist by TECH DOSE](https://www.youtube.com/playlist?list=PLEJXowNB4kPx7Bx9J5in8LDK7hZKVrvpD)
 - Interview Questions
   - [Simple Questions Playlist by Vivekanand Khyade Sir](https://www.youtube.com/playlist?list=PLeIMaH7i8JDjw0uHGG1AwB8M2DwDS4-Nk)
 
