@@ -124,4 +124,4 @@
 
 
 ## Puzzles
--[Interview Puzzles Playlist by TECH DOSE](https://www.youtube.com/playlist?list=PLEJXowNB4kPyvx5VsNcjz3vccR8iIDz-e)
+- [Interview Puzzles Playlist by TECH DOSE](https://www.youtube.com/playlist?list=PLEJXowNB4kPyvx5VsNcjz3vccR8iIDz-e)
