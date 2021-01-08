@@ -19,6 +19,7 @@
     - [Linked List Playlist by Vivekanand Khyade Sir](https://www.youtube.com/playlist?list=PLeIMaH7i8JDio7glJoO1rQIAo4g1msRRG)
     - [Linked List Playlist by Naresh i Technologies](https://www.youtube.com/playlist?list=PLBSRG4pA_5p5Z90SpPEN0JMTA-YdDZS43)
     - [Linked List - Interview Questions by Faad Coder](https://www.youtube.com/watch?v=ZrA0QR_i2uU) 
+    - [Linked List Playlist by TECH DOSE](https://www.youtube.com/playlist?list=PLEJXowNB4kPxEGqBZgYZZv3vy9Adj5_Am)
   - Text Resources / Books
 - Stacks
   - Video Lectures
@@ -51,6 +52,7 @@
     - [Graph related videos in Data Structures Playlist by mycodeschool](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
     - [Graph Theory Playlist by Vivekanand Khyade Sir](https://www.youtube.com/playlist?list=PLeIMaH7i8JDiRA4fK9QmjvDSZKBJDyxpc)
     - [Graph Data Structure Playlist by Kashish Mehendiratta Sir](https://www.youtube.com/playlist?list=PLNxqWc8Uj2LTb6VYJG3Kebwift2oaBFvE)
+    - [Graph Playlist by TECH DOSE](https://www.youtube.com/playlist?list=PLEJXowNB4kPzByLnnFYNSCoqtFz0VKLk5)
   - Text Resources / Books
 - Tries
   - Video Lectures
@@ -73,7 +75,11 @@
 - Strings
   - Video Lectures
   - Text Resources / Books
-- Additional Topics
+- Bit Manipulation / Operations
+  - Video Lectures
+    - [Bit Operations Playlist by TECH DOSE](https://www.youtube.com/playlist?list=PLEJXowNB4kPwa5VPvdQ1U3B2yaogEGDjX)
+  - Text Resources / Books
+- Additional Topics / Miscellaneous
   - Mathematical Concepts / Algorithms
     - [Mathematical Playlist by TECH DOSE](https://www.youtube.com/playlist?list=PLEJXowNB4kPzC3OYy2LRovf_xb8JjAMEF)
   - Matrix
@@ -85,8 +91,16 @@
     - [Disjoint Set Union Playlist by Kashish Mehendiratta Sir](https://www.youtube.com/playlist?list=PLNxqWc8Uj2LRONaT3wI7ikm7tedXKu7W2)
   - Geometric Algorithms 
     - [Geometric Algorithms Playlist by TECH DOSE](https://www.youtube.com/playlist?list=PLEJXowNB4kPx7Bx9J5in8LDK7hZKVrvpD)
+  - Advanced Data Structures
+    - [Advanced Data Structures Playlist by TECH DOSE](https://www.youtube.com/playlist?list=PLEJXowNB4kPzEzCq5aDgElTTdG5hCIFhz)
 - Interview Questions
   - [Simple Questions Playlist by Vivekanand Khyade Sir](https://www.youtube.com/playlist?list=PLeIMaH7i8JDjw0uHGG1AwB8M2DwDS4-Nk)
   - [Programming Interview Questions Playlist by TECH DOSE](https://www.youtube.com/playlist?list=PLEJXowNB4kPxQIN2dCUAnQ_92HIziG4x6)
 
 
+## System Design 
+- [System Design Concepts Playlist by TECH DOSE](https://www.youtube.com/playlist?list=PLEJXowNB4kPwpgu0iTXzTBViCRldP1AP0)
+
+
+## Operating Systems
+- [Operating Systems Playlist by TECH DOSE](https://www.youtube.com/playlist?list=PLEJXowNB4kPyhROV-05O2l5a2LX77u9yf)
