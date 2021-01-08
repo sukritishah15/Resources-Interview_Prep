@@ -15,6 +15,7 @@
     - Video Lectures
       - [Searching Algorithms Playlist by TECH DOSE](https://www.youtube.com/playlist?list=PLEJXowNB4kPwTb4BivkY0dENHmXdOEM3V)
       - [Sorting Algorithms Playlist by TECH DOSE](https://www.youtube.com/playlist?list=PLEJXowNB4kPy7Um6ju_jus9kdlTg5KEf_)
+      - [Binary Search Playlist by Aditya Verma Sir](https://www.youtube.com/playlist?list=PL_z_8CaSLPWeYfhtuKHj-9MpYb6XQJ_f2)
     - Text Resources / Books
   - Recursion
     - Video Lectures
@@ -32,6 +33,7 @@
     - Text Resources / Books
   - Stacks
     - Video Lectures
+      - [Stack Playlist by Aditya Verma Sir](https://www.youtube.com/playlist?list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_jNHd)
       - [Stack & Queue Playlist by TECH DOSE](https://www.youtube.com/playlist?list=PLEJXowNB4kPzEvxN8ed6T13Meet7HP3h0)
       - [Stack related videos in Data Structures Playlist by mycodeschool](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
       - [Stack related videos in Data Structures Playlist by Naresh i Technologies](https://www.youtube.com/playlist?list=PLVlQHNRLflP_OxF1QJoGBwH_TnZszHR_j)
@@ -55,6 +57,7 @@
     - Text Resources / Books
   - Heaps
     - Video Lectures
+      - [Heap Playlist by Aditya Verma Sir](https://www.youtube.com/playlist?list=PL_z_8CaSLPWdtY9W22VjnPxG30CXNZpI9)
       - [Heap Playlist-1 by TECH DOSE](https://www.youtube.com/playlist?list=PLEJXowNB4kPyP2PdMhOUlTY6GrRIITx28)
       - [Heap Playlist-2 by TECH DOSE](https://www.youtube.com/playlist?list=PLEJXowNB4kPwV1-FWiWthCcwtT0SWknz0)
     - Text Resources / Books
@@ -77,6 +80,8 @@
     - Text Resources / Books
   - Dynamic Programming
     - Video Lectures
+      - [Dynamic Programming Playlist by Aditya Verma Sir](https://www.youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go)
+      - [Dynamic Programming on Trees Playlist by Aditya Verma Sir](https://www.youtube.com/playlist?list=PL_z_8CaSLPWfxJPz2-YKqL9gXWdgrhvdn)
       - [Dynamic Programming Playlist by Vivekanand Khyade Sir](https://www.youtube.com/playlist?list=PLeIMaH7i8JDjMEB-b2I8NGcKMFZc85djW)
       - [Dynamic Programming Playlist by TECH DOSE](https://www.youtube.com/playlist?list=PLEJXowNB4kPxBwaXtRO1qFLpCzF75DYrS)
     - Text Resources / Books
@@ -107,10 +112,13 @@
       - [Disjoint Set Union Playlist by Kashish Mehendiratta Sir](https://www.youtube.com/playlist?list=PLNxqWc8Uj2LRONaT3wI7ikm7tedXKu7W2)
     - Geometric Algorithms 
       - [Geometric Algorithms Playlist by TECH DOSE](https://www.youtube.com/playlist?list=PLEJXowNB4kPx7Bx9J5in8LDK7hZKVrvpD)
+    - Sliding Window Algorithm
+      - [Sliding Window Algorithm Playlist by Aditya Verma Sir](https://www.youtube.com/playlist?list=PL_z_8CaSLPWeM8BDJmIYDaoQ5zuwyxnfj)
     - Advanced Data Structures
       - [Advanced Data Structures Playlist by TECH DOSE](https://www.youtube.com/playlist?list=PLEJXowNB4kPzEzCq5aDgElTTdG5hCIFhz)
   - Interview Questions
     - [Simple Questions Playlist by Vivekanand Khyade Sir](https://www.youtube.com/playlist?list=PLeIMaH7i8JDjw0uHGG1AwB8M2DwDS4-Nk)
+    - [Miscellaneous Topics Playlist by Aditya Verma Sir](https://www.youtube.com/playlist?list=PL_z_8CaSLPWdJfdZHiNYYM46tYQUjbBJx)
     - [Programming Interview Questions Playlist by TECH DOSE](https://www.youtube.com/playlist?list=PLEJXowNB4kPxQIN2dCUAnQ_92HIziG4x6)
     - [Programming & Data Structures Playlist by TECH DOSE](https://www.youtube.com/playlist?list=PLEJXowNB4kPzDxOSQJFEnfZW_fduTdFlD)
 
