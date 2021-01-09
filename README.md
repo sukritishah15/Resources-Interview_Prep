@@ -57,6 +57,7 @@
       - [Tree Playlist by TECH DOSE](https://www.youtube.com/playlist?list=PLEJXowNB4kPzqcnf9CnjEcgP7r5LaSijB)
       - [Tree related videos in Data Structures Playlist by mycodeschool](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
       - [Tree related videos in Data Structures Playlist by Naresh i Technologies](https://www.youtube.com/playlist?list=PLVlQHNRLflP_OxF1QJoGBwH_TnZszHR_j)
+      - [Tree - Interview Questions by Faad Coder](https://www.youtube.com/watch?v=lbxvfL1Oxlk)
     - Text Resources / Books
   - Heaps
     - Video Lectures
